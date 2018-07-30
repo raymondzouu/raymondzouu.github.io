@@ -682,7 +682,7 @@ ol {
 /* small Mobile :320px. */
 @media only screen and (max-width: 479px) {
 	.hero-text h2 {
-		font-size: 50px;
+		font-size: 30px;
 	}
 	.hero-info ul li {
 		font-size: 18px;
@@ -691,7 +691,7 @@ ol {
 		display: block;
 	}
 	.social-section .social-links a {
-		margin-right: 30px;
+		margin-right: 10px;
 	}
 	.resume-list h2 {
 		font-size: 50px;
