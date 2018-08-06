@@ -256,7 +256,7 @@ ol {
 -----------------------*/
 .header-section {
 	padding: 50px 40px;
-	background: #f2f7f8;
+	/*background: #f2f7f8; */
 }
 
 .site-logo h2 {
@@ -380,7 +380,7 @@ ol {
 	Footer section
 -----------------------*/
 .footer-section {
-	background: #f2f7f8;
+	/*background: #f2f7f8; */
 	padding: 20px 0;
 }
 
